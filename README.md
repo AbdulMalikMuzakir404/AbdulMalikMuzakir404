@@ -1,5 +1,6 @@
-# 💫 About Me:
-I am a software engineer with almost one year and a half of experience, specializing in back-end and mobile development using technologies such as NestJS and Laravel. I am also skilled in front-end development with frameworks like Vue.js and Next.js,and I have experience building mobile applications using Flutter<br><br>Programming is not just a profession for me—it’s a passion. I am a quick learner who adheres to best practices, consistently delivering high-quality solutions efficiently and on time.
+# 💫 Hai I'm Abdul Malik Muzakir:
+I am a software engineer with almost two years of experience, specializing in back-end and mobile development using technologies such as NestJS and Laravel. I am also skilled in front-end development with
+frameworks like Vue.js and Next.js,and I have experience building mobile applications using Flutter<br><br> Programming is not just a profession for me—it’s a passion. I am a quick learner who adheres to best practices, consistently delivering high-quality solutions efficiently and on time.
 
 
 ## 🌐 Socials:
