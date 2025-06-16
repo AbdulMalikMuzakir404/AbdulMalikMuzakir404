@@ -17,6 +17,33 @@ frameworks like Vue.js and Next.js,and I have experience building mobile applica
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 <!--START_SECTION:waka-->
 
+```txt
+From: 03 May 2025 - To: 15 June 2025
+
+Total Time: 151 hrs 23 mins
+
+PHP              54 hrs 32 mins  █████████░░░░░░░░░░░░░░░░   35.77 %
+Vue.js           29 hrs 22 mins  ████▓░░░░░░░░░░░░░░░░░░░░   19.27 %
+JavaScript       27 hrs 5 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.77 %
+Blade Template   17 hrs 59 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.80 %
+TypeScript       10 hrs 47 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
+JSON             5 hrs 58 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
+Bash             1 hr 14 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Other            1 hr 3 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+HTML             50 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Git Config       50 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Python           32 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Markdown         32 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+SCSS             31 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+CSS              28 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Apache Config    13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+YAML             8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+TSConfig         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Docker           3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Text             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Dart             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+```
+
 <!--END_SECTION:waka-->
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
