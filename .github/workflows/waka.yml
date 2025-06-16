@@ -16,3 +16,12 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           TIME_RANGE: all_time
+          SHOW_TOTAL: true
+          SHOW_LINES_OF_CODE: true
+          SHOW_TIME: true
+          SHOW_LANGUAGES: true
+          SHOW_EDITORS: true
+          SHOW_OS: true
+          SHOW_PROJECTS: true
+          SHOW_STATS: true
+          LANG_COUNT: 20
