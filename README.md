@@ -11,9 +11,9 @@ frameworks like Vue.js and Next.js,and I have experience building mobile applica
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AbdulMalikMuzakir404&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
-  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulMalikMuzakir404&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <br />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=AbdulMalikMuzakir404&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
 </p>
 
 ## 📊 WakaTime Coding Stats
