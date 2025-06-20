@@ -18,24 +18,24 @@ frameworks like Vue.js and Next.js,and I have experience building mobile applica
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 May 2025 - To: 18 June 2025
+From: 03 May 2025 - To: 19 June 2025
 
-Total Time: 170 hrs 34 mins
+Total Time: 176 hrs 46 mins
 
-PHP              60 hrs 22 mins  ████████▓░░░░░░░░░░░░░░░░   35.15 %
-Vue.js           32 hrs 34 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.97 %
-JavaScript       31 hrs 56 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.60 %
-Blade Template   20 hrs 56 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.20 %
-TypeScript       10 hrs 47 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
-JSON             8 hrs 7 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
-Bash             1 hr 17 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-Other            1 hr 10 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-HTML             53 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-Git Config       50 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
-CSS              33 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-Python           32 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-Markdown         32 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-SCSS             31 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+PHP              62 hrs 15 mins  ████████▓░░░░░░░░░░░░░░░░   34.98 %
+Vue.js           32 hrs 48 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.44 %
+JavaScript       32 hrs 46 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.42 %
+Blade Template   23 hrs 45 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.35 %
+TypeScript       10 hrs 47 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
+JSON             8 hrs 15 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
+Bash             1 hr 34 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Other            1 hr 10 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+HTML             53 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Git Config       50 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+CSS              34 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Python           32 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Markdown         32 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+SCSS             31 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 Apache Config    13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 YAML             8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 TSConfig         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
