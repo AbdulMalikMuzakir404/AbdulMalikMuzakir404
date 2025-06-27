@@ -18,26 +18,26 @@ frameworks like Vue.js and Next.js,and I have experience building mobile applica
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 May 2025 - To: 25 June 2025
+From: 03 May 2025 - To: 26 June 2025
 
-Total Time: 216 hrs 16 mins
+Total Time: 219 hrs 45 mins
 
-PHP              79 hrs 21 mins  █████████░░░░░░░░░░░░░░░░   36.49 %
-Vue.js           47 hrs 44 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.95 %
-JavaScript       33 hrs 38 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.47 %
-Blade Template   29 hrs 23 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.52 %
-TypeScript       10 hrs 47 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
-JSON             8 hrs 49 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
-Bash             1 hr 49 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-Other            1 hr 10 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
-HTML             1 hr 2 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-Git Config       50 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+PHP              80 hrs 51 mins  █████████░░░░░░░░░░░░░░░░   36.59 %
+Vue.js           48 hrs 20 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.88 %
+JavaScript       33 hrs 38 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   15.23 %
+Blade Template   30 hrs 45 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.92 %
+TypeScript       10 hrs 47 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+JSON             8 hrs 49 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+Bash             1 hr 49 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Other            1 hr 14 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+HTML             1 hr 2 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Git Config       50 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 CSS              34 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 Python           32 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 Markdown         32 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 SCSS             31 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 Apache Config    13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-YAML             8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+YAML             8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 TSConfig         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 Docker           3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 Text             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
