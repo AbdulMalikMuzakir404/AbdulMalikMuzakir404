@@ -18,24 +18,24 @@ frameworks like Vue.js and Next.js,and I have experience building mobile applica
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 May 2025 - To: 01 July 2025
+From: 03 May 2025 - To: 02 July 2025
 
-Total Time: 232 hrs 41 mins
+Total Time: 234 hrs 29 mins
 
-PHP              86 hrs 28 mins  █████████▒░░░░░░░░░░░░░░░   36.96 %
-Vue.js           52 hrs 53 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.61 %
-JavaScript       33 hrs 52 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.48 %
-Blade Template   32 hrs 57 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.09 %
-TypeScript       10 hrs 47 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
-JSON             8 hrs 52 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
-Bash             2 hrs 4 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+PHP              86 hrs 33 mins  █████████▒░░░░░░░░░░░░░░░   36.71 %
+Vue.js           54 hrs 3 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.93 %
+JavaScript       33 hrs 53 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.38 %
+Blade Template   33 hrs 1 min    ███▓░░░░░░░░░░░░░░░░░░░░░   14.01 %
+TypeScript       10 hrs 47 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
+JSON             8 hrs 52 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+Bash             2 hrs 4 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+HTML             1 hr 15 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 Other            1 hr 15 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-HTML             1 hr 5 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 Git Config       50 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-CSS              34 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+SCSS             44 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+CSS              38 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 Python           32 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 Markdown         32 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-SCSS             31 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 Apache Config    13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 YAML             8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 TSConfig         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
