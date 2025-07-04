@@ -18,26 +18,26 @@ frameworks like Vue.js and Next.js,and I have experience building mobile applica
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 May 2025 - To: 02 July 2025
+From: 03 May 2025 - To: 03 July 2025
 
-Total Time: 234 hrs 29 mins
+Total Time: 234 hrs 45 mins
 
-PHP              86 hrs 33 mins  █████████▒░░░░░░░░░░░░░░░   36.71 %
-Vue.js           54 hrs 3 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.93 %
-JavaScript       33 hrs 53 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.38 %
-Blade Template   33 hrs 1 min    ███▓░░░░░░░░░░░░░░░░░░░░░   14.01 %
+PHP              86 hrs 33 mins  █████████▒░░░░░░░░░░░░░░░   36.67 %
+Vue.js           54 hrs 3 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.90 %
+JavaScript       33 hrs 54 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.37 %
+Blade Template   33 hrs 1 min    ███▓░░░░░░░░░░░░░░░░░░░░░   14.00 %
 TypeScript       10 hrs 47 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
 JSON             8 hrs 52 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
-Bash             2 hrs 4 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+Bash             2 hrs 6 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
 HTML             1 hr 15 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 Other            1 hr 15 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-Git Config       50 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Git Config       53 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 SCSS             44 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 CSS              38 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 Python           32 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 Markdown         32 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+YAML             19 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 Apache Config    13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-YAML             8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 TSConfig         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 Docker           3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 Text             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
