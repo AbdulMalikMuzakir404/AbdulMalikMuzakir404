@@ -18,29 +18,29 @@ frameworks like Vue.js and Next.js,and I have experience building mobile applica
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 May 2025 - To: 06 July 2025
+From: 03 May 2025 - To: 07 July 2025
 
-Total Time: 247 hrs 49 mins
+Total Time: 251 hrs 54 mins
 
-PHP              86 hrs 33 mins  ████████▓░░░░░░░░░░░░░░░░   34.69 %
-Vue.js           54 hrs 3 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.66 %
-JavaScript       39 hrs 38 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.89 %
-Blade Template   33 hrs 1 min    ███▒░░░░░░░░░░░░░░░░░░░░░   13.24 %
-TypeScript       12 hrs 54 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
-JSON             9 hrs 59 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
-Bash             5 hrs 29 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
-Other            1 hr 42 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-HTML             1 hr 15 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-Git Config       53 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+PHP              86 hrs 33 mins  ████████▓░░░░░░░░░░░░░░░░   34.09 %
+Vue.js           54 hrs 3 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.29 %
+JavaScript       41 hrs 58 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.53 %
+Blade Template   33 hrs 1 min    ███▒░░░░░░░░░░░░░░░░░░░░░   13.01 %
+TypeScript       13 hrs 14 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+JSON             10 hrs 10 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+Bash             6 hrs 22 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+Other            2 hrs           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+HTML             1 hr 15 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Python           58 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Git Config       53 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 SCSS             44 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-CSS              38 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-Python           38 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+CSS              38 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 Markdown         36 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 YAML             19 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 Apache Config    13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 XML              12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 Text             10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-Prisma           9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Prisma           9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 TSConfig         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
