@@ -18,28 +18,28 @@ frameworks like Vue.js and Next.js,and I have experience building mobile applica
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 May 2025 - To: 24 July 2025
+From: 03 May 2025 - To: 25 July 2025
 
-Total Time: 309 hrs 24 mins
+Total Time: 310 hrs 26 mins
 
-PHP              86 hrs 33 mins  ███████░░░░░░░░░░░░░░░░░░   27.68 %
-JavaScript       56 hrs 41 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.13 %
-Vue.js           54 hrs 3 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.29 %
-TypeScript       33 hrs 44 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.79 %
-Blade Template   33 hrs 28 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.71 %
-JSON             17 hrs 53 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
-Bash             10 hrs 18 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+PHP              86 hrs 33 mins  ███████░░░░░░░░░░░░░░░░░░   27.59 %
+JavaScript       56 hrs 47 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.10 %
+Vue.js           54 hrs 3 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.23 %
+TypeScript       34 hrs 14 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
+Blade Template   33 hrs 34 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.70 %
+JSON             17 hrs 56 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
+Bash             10 hrs 32 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
 Python           6 hrs 51 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
-Other            3 hrs 15 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-Git Config       1 hr 34 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Other            3 hrs 16 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+Git Config       1 hr 34 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 HTML             1 hr 15 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 Text             1 hr 11 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-Markdown         55 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Markdown         58 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 CSS              51 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 Go               45 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 SCSS             44 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 CSV              31 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-TSConfig         23 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+TSConfig         23 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 YAML             20 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 Docker           20 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
