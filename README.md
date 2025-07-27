@@ -18,23 +18,23 @@ frameworks like Vue.js and Next.js,and I have experience building mobile applica
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 May 2025 - To: 25 July 2025
+From: 03 May 2025 - To: 26 July 2025
 
-Total Time: 310 hrs 26 mins
+Total Time: 312 hrs 49 mins
 
-PHP              86 hrs 33 mins  ███████░░░░░░░░░░░░░░░░░░   27.59 %
-JavaScript       56 hrs 47 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.10 %
-Vue.js           54 hrs 3 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.23 %
-TypeScript       34 hrs 14 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
-Blade Template   33 hrs 34 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.70 %
-JSON             17 hrs 56 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
-Bash             10 hrs 32 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
-Python           6 hrs 51 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
-Other            3 hrs 16 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+PHP              86 hrs 33 mins  ███████░░░░░░░░░░░░░░░░░░   27.38 %
+JavaScript       57 hrs 3 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.05 %
+Vue.js           54 hrs 3 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.10 %
+TypeScript       35 hrs 39 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.28 %
+Blade Template   33 hrs 34 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.62 %
+JSON             17 hrs 56 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
+Bash             10 hrs 53 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
+Python           6 hrs 51 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+Other            3 hrs 16 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
 Git Config       1 hr 34 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Text             1 hr 26 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 HTML             1 hr 15 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-Text             1 hr 11 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-Markdown         58 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Markdown         1 hr 4 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 CSS              51 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 Go               45 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 SCSS             44 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
