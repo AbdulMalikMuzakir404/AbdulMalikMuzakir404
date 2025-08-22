@@ -18,28 +18,28 @@ frameworks like Vue.js and Next.js,and I have experience building mobile applica
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 May 2025 - To: 20 August 2025
+From: 03 May 2025 - To: 21 August 2025
 
-Total Time: 435 hrs 20 mins
+Total Time: 441 hrs 2 mins
 
-TypeScript        93 hrs 35 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.29 %
-PHP               87 hrs 51 mins  █████░░░░░░░░░░░░░░░░░░░░   19.98 %
-Vue.js            72 hrs 32 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.50 %
-JavaScript        65 hrs 46 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.96 %
-Blade Template    33 hrs 35 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
-JSON              21 hrs 47 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
-Bash              21 hrs 43 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
-Python            19 hrs 37 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
-Markdown          4 hrs 19 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-Other             4 hrs 19 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-YAML              3 hrs 53 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-HTML              1 hr 55 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+TypeScript        98 hrs 49 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.17 %
+PHP               87 hrs 51 mins  █████░░░░░░░░░░░░░░░░░░░░   19.71 %
+Vue.js            72 hrs 32 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.28 %
+JavaScript        65 hrs 46 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.76 %
+Blade Template    33 hrs 35 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
+Bash              22 hrs 10 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
+JSON              21 hrs 47 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
+Python            19 hrs 37 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+Other             4 hrs 39 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+Markdown          4 hrs 19 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+YAML              3 hrs 53 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+HTML              1 hr 55 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 Git Config        1 hr 48 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-Text              1 hr 31 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-CSS               54 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Text              1 hr 31 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+CSS               54 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 Go                45 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 SCSS              44 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-Docker            33 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Docker            33 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 CSV               32 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 TSConfig          24 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
