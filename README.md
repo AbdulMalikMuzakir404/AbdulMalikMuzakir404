@@ -18,23 +18,23 @@ frameworks like Vue.js and Next.js,and I have experience building mobile applica
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 May 2025 - To: 25 August 2025
+From: 03 May 2025 - To: 26 August 2025
 
-Total Time: 462 hrs
+Total Time: 463 hrs 20 mins
 
-TypeScript        111 hrs 15 mins ██████░░░░░░░░░░░░░░░░░░░   23.73 %
-PHP               87 hrs 51 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.74 %
-Vue.js            72 hrs 32 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.47 %
-JavaScript        65 hrs 46 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 %
-Blade Template    33 hrs 35 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
-Bash              26 hrs 40 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
-JSON              21 hrs 51 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
-Python            19 hrs 37 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
+TypeScript        111 hrs 15 mins ██████░░░░░░░░░░░░░░░░░░░   23.66 %
+PHP               88 hrs 12 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.76 %
+Vue.js            73 hrs 2 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.53 %
+JavaScript        66 hrs 13 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.08 %
+Blade Template    33 hrs 35 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
+Bash              26 hrs 43 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
+JSON              21 hrs 51 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
+Python            19 hrs 37 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
 YAML              7 hrs 35 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
 Other             6 hrs 54 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-Markdown          4 hrs 34 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+Markdown          4 hrs 34 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
 HTML              1 hr 55 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-Git Config        1 hr 48 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Git Config        1 hr 48 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 Text              1 hr 31 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 CSS               54 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 Go                45 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
