@@ -18,23 +18,23 @@ frameworks like Vue.js and Next.js,and I have experience building mobile applica
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 May 2025 - To: 06 September 2025
+From: 03 May 2025 - To: 07 September 2025
 
-Total Time: 547 hrs 35 mins
+Total Time: 549 hrs 53 mins
 
-TypeScript        168 hrs 1 min   ███████▓░░░░░░░░░░░░░░░░░   30.27 %
-PHP               88 hrs 12 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.89 %
-Vue.js            79 hrs          ███▓░░░░░░░░░░░░░░░░░░░░░   14.23 %
-JavaScript        70 hrs 39 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   12.73 %
-Blade Template    33 hrs 35 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
-Bash              32 hrs 20 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
-JSON              31 hrs 2 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
-Python            19 hrs 37 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
-YAML              7 hrs 35 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+TypeScript        169 hrs 18 mins ███████▓░░░░░░░░░░░░░░░░░   30.37 %
+PHP               88 hrs 12 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.82 %
+Vue.js            79 hrs          ███▓░░░░░░░░░░░░░░░░░░░░░   14.17 %
+JavaScript        70 hrs 39 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   12.67 %
+Blade Template    33 hrs 35 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
+Bash              32 hrs 28 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
+JSON              31 hrs 35 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
+Python            19 hrs 37 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
+YAML              7 hrs 35 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
 Other             7 hrs 33 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
-Markdown          6 hrs 26 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-Git Config        2 hrs 12 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-HTML              1 hr 55 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Markdown          6 hrs 46 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+Git Config        2 hrs 12 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+HTML              1 hr 55 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 Text              1 hr 31 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 CSS               54 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 Go                45 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
