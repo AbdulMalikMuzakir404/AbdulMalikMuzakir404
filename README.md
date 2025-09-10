@@ -18,21 +18,21 @@ frameworks like Vue.js and Next.js,and I have experience building mobile applica
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 May 2025 - To: 08 September 2025
+From: 03 May 2025 - To: 09 September 2025
 
-Total Time: 555 hrs 27 mins
+Total Time: 559 hrs 13 mins
 
-TypeScript        173 hrs 7 mins  ███████▓░░░░░░░░░░░░░░░░░   30.75 %
-PHP               88 hrs 12 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.67 %
-Vue.js            79 hrs          ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 %
-JavaScript        70 hrs 39 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
-Bash              33 hrs 38 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
-Blade Template    33 hrs 35 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
-JSON              32 hrs 9 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
-Python            19 hrs 37 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
-Other             7 hrs 36 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-YAML              7 hrs 35 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-Markdown          6 hrs 46 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+TypeScript        175 hrs 31 mins ███████▓░░░░░░░░░░░░░░░░░   30.97 %
+PHP               88 hrs 12 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.56 %
+Vue.js            79 hrs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.94 %
+JavaScript        70 hrs 41 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.47 %
+Bash              33 hrs 48 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
+Blade Template    33 hrs 35 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
+JSON              32 hrs 51 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
+Python            19 hrs 37 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+Other             7 hrs 36 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+YAML              7 hrs 35 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+Markdown          7 hrs 13 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
 Git Config        2 hrs 12 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 HTML              1 hr 55 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 Text              1 hr 31 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
