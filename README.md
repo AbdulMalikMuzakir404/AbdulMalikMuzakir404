@@ -18,21 +18,21 @@ frameworks like Vue.js and Next.js,and I have experience building mobile applica
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 May 2025 - To: 08 October 2025
+From: 03 May 2025 - To: 09 October 2025
 
-Total Time: 752 hrs 47 mins
+Total Time: 757 hrs 7 mins
 
-TypeScript        304 hrs 57 mins ██████████░░░░░░░░░░░░░░░   40.06 %
-PHP               88 hrs 12 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.59 %
-Vue.js            79 hrs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.38 %
-JSON              77 hrs 59 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.25 %
-JavaScript        74 hrs 30 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 %
-Bash              43 hrs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
-Blade Template    33 hrs 35 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
-Python            19 hrs 37 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
-Markdown          9 hrs 46 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-Other             8 hrs 24 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-YAML              7 hrs 55 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+TypeScript        306 hrs 42 mins ██████████░░░░░░░░░░░░░░░   40.06 %
+PHP               88 hrs 12 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.52 %
+JSON              80 hrs 16 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 %
+Vue.js            79 hrs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.32 %
+JavaScript        74 hrs 32 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
+Bash              43 hrs 16 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
+Blade Template    33 hrs 35 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
+Python            19 hrs 37 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+Markdown          9 hrs 46 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+Other             8 hrs 24 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+YAML              7 hrs 55 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
 HTML              3 hrs 35 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 Git Config        2 hrs 41 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 Text              1 hr 31 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
