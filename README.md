@@ -18,21 +18,21 @@ frameworks like Vue.js and Next.js,and I have experience building mobile applica
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 May 2025 - To: 26 October 2025
+From: 03 May 2025 - To: 27 October 2025
 
-Total Time: 784 hrs
+Total Time: 788 hrs 23 mins
 
-TypeScript        312 hrs 38 mins ██████████░░░░░░░░░░░░░░░   39.38 %
-PHP               88 hrs 12 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.11 %
-JSON              86 hrs 56 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.95 %
-JavaScript        85 hrs 17 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.74 %
-Vue.js            79 hrs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 %
-Bash              45 hrs 16 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
-Blade Template    33 hrs 35 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
-Python            19 hrs 44 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
-Markdown          10 hrs 59 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
-Other             9 hrs 56 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-YAML              7 hrs 55 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+TypeScript        312 hrs 48 mins █████████▓░░░░░░░░░░░░░░░   39.18 %
+JavaScript        88 hrs 22 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 %
+PHP               88 hrs 12 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.05 %
+JSON              87 hrs 20 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 %
+Vue.js            79 hrs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
+Bash              45 hrs 53 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
+Blade Template    33 hrs 35 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
+Python            19 hrs 44 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+Markdown          11 hrs 6 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+Other             10 hrs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+YAML              7 hrs 55 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 HTML              3 hrs 41 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 Git Config        2 hrs 42 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 Text              1 hr 31 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
