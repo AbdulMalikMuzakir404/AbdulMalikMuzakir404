@@ -18,27 +18,27 @@ frameworks like Vue.js and Next.js,and I have experience building mobile applica
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 May 2025 - To: 10 November 2025
+From: 03 May 2025 - To: 11 November 2025
 
-Total Time: 828 hrs 22 mins
+Total Time: 829 hrs
 
-TypeScript        317 hrs 7 mins  █████████▒░░░░░░░░░░░░░░░   37.78 %
-JavaScript        103 hrs 57 mins ███░░░░░░░░░░░░░░░░░░░░░░   12.38 %
-JSON              102 hrs 19 mins ███░░░░░░░░░░░░░░░░░░░░░░   12.19 %
-PHP               88 hrs 12 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.51 %
-Vue.js            79 hrs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 %
-Bash              47 hrs 30 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
+TypeScript        317 hrs 7 mins  █████████▒░░░░░░░░░░░░░░░   37.74 %
+JavaScript        103 hrs 57 mins ███░░░░░░░░░░░░░░░░░░░░░░   12.37 %
+JSON              102 hrs 48 mins ███░░░░░░░░░░░░░░░░░░░░░░   12.24 %
+PHP               88 hrs 12 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.50 %
+Vue.js            79 hrs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 %
+Bash              47 hrs 30 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
 Blade Template    33 hrs 35 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
 Python            19 hrs 54 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
 Markdown          12 hrs 25 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
-Other             11 hrs 3 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Other             11 hrs 10 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
 YAML              7 hrs 57 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
 HTML              3 hrs 41 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 Git Config        2 hrs 57 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 Text              1 hr 32 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 Prisma            1 hr            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Ruby              56 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 CSS               54 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-Ruby              49 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 Go                45 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 SCSS              45 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 CSV               39 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
