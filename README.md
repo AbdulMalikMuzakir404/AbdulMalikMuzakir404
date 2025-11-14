@@ -18,21 +18,21 @@ frameworks like Vue.js and Next.js,and I have experience building mobile applica
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 May 2025 - To: 12 November 2025
+From: 03 May 2025 - To: 13 November 2025
 
-Total Time: 830 hrs 6 mins
+Total Time: 835 hrs 54 mins
 
-TypeScript        317 hrs 7 mins  █████████▒░░░░░░░░░░░░░░░   37.69 %
-JavaScript        104 hrs 42 mins ███░░░░░░░░░░░░░░░░░░░░░░   12.45 %
-JSON              102 hrs 56 mins ███░░░░░░░░░░░░░░░░░░░░░░   12.24 %
-PHP               88 hrs 12 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.48 %
-Vue.js            79 hrs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
-Bash              47 hrs 30 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
-Blade Template    33 hrs 35 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
-Python            19 hrs 54 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
-Markdown          12 hrs 25 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
-Other             11 hrs 10 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-YAML              7 hrs 57 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+TypeScript        317 hrs 28 mins █████████▒░░░░░░░░░░░░░░░   37.47 %
+JavaScript        109 hrs 22 mins ███▒░░░░░░░░░░░░░░░░░░░░░   12.91 %
+JSON              103 hrs 28 mins ███░░░░░░░░░░░░░░░░░░░░░░   12.21 %
+PHP               88 hrs 12 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
+Vue.js            79 hrs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.32 %
+Bash              47 hrs 34 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
+Blade Template    33 hrs 35 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
+Python            19 hrs 54 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+Markdown          12 hrs 36 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+Other             11 hrs 19 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+YAML              7 hrs 57 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
 HTML              3 hrs 41 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 Git Config        2 hrs 57 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 Text              1 hr 32 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
