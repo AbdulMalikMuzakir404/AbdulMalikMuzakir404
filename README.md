@@ -18,30 +18,30 @@ frameworks like Vue.js and Next.js,and I have experience building mobile applica
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 May 2025 - To: 27 November 2025
+From: 03 May 2025 - To: 28 November 2025
 
-Total Time: 859 hrs 42 mins
+Total Time: 862 hrs 16 mins
 
-TypeScript        322 hrs 5 mins  █████████▒░░░░░░░░░░░░░░░   36.95 %
-JavaScript        118 hrs 13 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.56 %
-JSON              106 hrs 27 mins ███░░░░░░░░░░░░░░░░░░░░░░   12.21 %
-PHP               88 hrs 12 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 %
-Vue.js            79 hrs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.06 %
-Bash              49 hrs 49 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
-Blade Template    33 hrs 35 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
-Python            23 hrs 27 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
-Markdown          13 hrs 23 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
-Other             11 hrs 58 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-YAML              7 hrs 57 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+TypeScript        322 hrs 5 mins  █████████▒░░░░░░░░░░░░░░░   36.83 %
+JavaScript        118 hrs 13 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.52 %
+JSON              106 hrs 27 mins ███░░░░░░░░░░░░░░░░░░░░░░   12.17 %
+PHP               88 hrs 12 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.09 %
+Vue.js            79 hrs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
+Bash              49 hrs 49 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
+Blade Template    33 hrs 35 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
+Python            23 hrs 27 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
+Markdown          13 hrs 23 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+Other             12 hrs 14 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+YAML              8 hrs 52 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
 HTML              3 hrs 41 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
-Git Config        3 hrs 15 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Git Config        3 hrs 16 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 Text              1 hr 58 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Dart              1 hr 37 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 Prisma            1 hr            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 Ruby              56 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 CSS               54 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 Go                45 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 SCSS              45 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-Svelte            41 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
