@@ -18,20 +18,20 @@ frameworks like Vue.js and Next.js,and I have experience building mobile applica
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 May 2025 - To: 08 December 2025
+From: 03 May 2025 - To: 09 December 2025
 
-Total Time: 904 hrs 12 mins
+Total Time: 908 hrs 6 mins
 
-TypeScript          327 hrs 14 mins █████████░░░░░░░░░░░░░░░░   35.66 %
-JavaScript          121 hrs 11 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.21 %
-JSON                115 hrs 37 mins ███░░░░░░░░░░░░░░░░░░░░░░   12.60 %
-PHP                 88 hrs 12 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
-Vue.js              79 hrs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 %
-Bash                50 hrs 26 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
-Blade Template      33 hrs 35 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
-Dart                24 hrs 12 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
-Python              23 hrs 27 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
-Markdown            13 hrs 27 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+TypeScript          327 hrs 31 mins █████████░░░░░░░░░░░░░░░░   35.54 %
+JavaScript          121 hrs 11 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.15 %
+JSON                115 hrs 51 mins ███░░░░░░░░░░░░░░░░░░░░░░   12.57 %
+PHP                 88 hrs 12 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.57 %
+Vue.js              79 hrs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
+Bash                50 hrs 40 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
+Blade Template      33 hrs 35 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+Dart                27 hrs 20 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+Python              23 hrs 27 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+Markdown            13 hrs 27 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
 Other               13 hrs 26 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
 YAML                9 hrs 32 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
 HTML                3 hrs 41 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
