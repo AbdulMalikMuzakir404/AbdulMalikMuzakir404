@@ -18,26 +18,26 @@ frameworks like Vue.js and Next.js,and I have experience building mobile applica
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 May 2025 - To: 20 December 2025
+From: 03 May 2025 - To: 21 December 2025
 
-Total Time: 956 hrs
+Total Time: 957 hrs 53 mins
 
-TypeScript          342 hrs 9 mins  ████████▓░░░░░░░░░░░░░░░░   35.23 %
-JavaScript          123 hrs 34 mins ███▒░░░░░░░░░░░░░░░░░░░░░   12.72 %
-JSON                120 hrs 14 mins ███░░░░░░░░░░░░░░░░░░░░░░   12.38 %
-PHP                 88 hrs 12 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 %
-Vue.js              79 hrs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 %
-Bash                54 hrs 59 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
-Dart                47 hrs 35 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
-Blade Template      33 hrs 35 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+TypeScript          342 hrs 33 mins ████████▓░░░░░░░░░░░░░░░░   35.20 %
+JavaScript          123 hrs 34 mins ███▒░░░░░░░░░░░░░░░░░░░░░   12.70 %
+JSON                120 hrs 15 mins ███░░░░░░░░░░░░░░░░░░░░░░   12.35 %
+PHP                 88 hrs 12 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.06 %
+Vue.js              79 hrs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
+Bash                55 hrs 15 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
+Dart                48 hrs 45 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
+Blade Template      33 hrs 35 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
 Python              23 hrs 27 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
-Other               15 hrs 13 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
-Markdown            13 hrs 39 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-YAML                10 hrs 15 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+Other               15 hrs 26 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+Markdown            13 hrs 39 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+YAML                10 hrs 15 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
 HTML                3 hrs 41 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 Git Config          3 hrs 25 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 Text                2 hrs 5 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-Ruby                1 hr 31 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Ruby                1 hr 32 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 Prisma              1 hr            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 CSS                 54 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 CSV                 47 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
