@@ -18,22 +18,22 @@ frameworks like Vue.js and Next.js,and I have experience building mobile applica
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 May 2025 - To: 09 January 2026
+From: 03 May 2025 - To: 10 January 2026
 
-Total Time: 981 hrs 47 mins
+Total Time: 985 hrs 9 mins
 
-TypeScript          347 hrs 13 mins ████████▓░░░░░░░░░░░░░░░░   34.78 %
-JavaScript          125 hrs 18 mins ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
-JSON                122 hrs 33 mins ███░░░░░░░░░░░░░░░░░░░░░░   12.28 %
-PHP                 88 hrs 15 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 %
-Vue.js              79 hrs 9 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
-Dart                58 hrs 13 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
-Bash                57 hrs 44 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
-Blade Template      33 hrs 38 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
-Python              23 hrs 30 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+TypeScript          349 hrs 31 mins ████████▓░░░░░░░░░░░░░░░░   34.89 %
+JavaScript          125 hrs 18 mins ███░░░░░░░░░░░░░░░░░░░░░░   12.51 %
+JSON                123 hrs 16 mins ███░░░░░░░░░░░░░░░░░░░░░░   12.31 %
+PHP                 88 hrs 15 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
+Vue.js              79 hrs 9 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
+Dart                58 hrs 17 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
+Bash                57 hrs 45 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
+Blade Template      33 hrs 38 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+Python              23 hrs 30 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
 Other               16 hrs 30 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
-Markdown            13 hrs 51 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
-YAML                11 hrs 51 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Markdown            14 hrs 6 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+YAML                11 hrs 51 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
 HTML                3 hrs 41 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 Git Config          3 hrs 28 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 Text                2 hrs 5 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
