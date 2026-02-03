@@ -18,23 +18,23 @@ frameworks like Vue.js and Next.js,and I have experience building mobile applica
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 May 2025 - To: 01 February 2026
+From: 03 May 2025 - To: 02 February 2026
 
-Total Time: 993 hrs 7 mins
+Total Time: 994 hrs 30 mins
 
-TypeScript          355 hrs 12 mins ████████▓░░░░░░░░░░░░░░░░   35.17 %
-JavaScript          125 hrs 18 mins ███░░░░░░░░░░░░░░░░░░░░░░   12.41 %
-JSON                123 hrs 59 mins ███░░░░░░░░░░░░░░░░░░░░░░   12.28 %
-PHP                 88 hrs 15 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
-Vue.js              79 hrs 9 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
-Dart                59 hrs 17 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
-Bash                58 hrs 19 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
+TypeScript          356 hrs 19 mins ████████▓░░░░░░░░░░░░░░░░   35.24 %
+JavaScript          125 hrs 18 mins ███░░░░░░░░░░░░░░░░░░░░░░   12.39 %
+JSON                124 hrs 15 mins ███░░░░░░░░░░░░░░░░░░░░░░   12.29 %
+PHP                 88 hrs 15 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
+Vue.js              79 hrs 9 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
+Dart                59 hrs 17 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
+Bash                58 hrs 19 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
 Blade Template      33 hrs 38 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
 Python              23 hrs 30 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
-Other               16 hrs 43 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+Other               16 hrs 43 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
 Markdown            14 hrs 6 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
 YAML                11 hrs 51 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-HTML                3 hrs 41 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+HTML                3 hrs 41 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 Git Config          3 hrs 29 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 Text                2 hrs 5 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 Ruby                1 hr 47 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
