@@ -18,7 +18,7 @@ frameworks like Vue.js and Next.js,and I have experience building mobile applica
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 May 2025 - To: 27 March 2026
+From: 03 May 2025 - To: 28 March 2026
 
 Total Time: 1,024 hrs 32 mins
 
