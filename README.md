@@ -18,21 +18,21 @@ frameworks like Vue.js and Next.js,and I have experience building mobile applica
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 May 2025 - To: 17 June 2026
+From: 03 May 2025 - To: 18 June 2026
 
-Total Time: 1,119 hrs 9 mins
+Total Time: 1,119 hrs 54 mins
 
-TypeScript          423 hrs 6 mins        █████████▒░░░░░░░░░░░░░░░   36.99 %
-JavaScript          139 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.24 %
-JSON                128 hrs 9 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   11.20 %
-PHP                 88 hrs 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
-Vue.js              79 hrs 9 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
+TypeScript          423 hrs 11 mins       █████████▒░░░░░░░░░░░░░░░   36.97 %
+JavaScript          139 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.23 %
+JSON                128 hrs 9 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   11.19 %
+PHP                 88 hrs 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
+Vue.js              79 hrs 9 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 %
 Dart                62 hrs 42 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
-Bash                60 hrs 30 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
-Python              50 hrs 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
+Bash                60 hrs 30 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
+Python              50 hrs 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
 Blade Template      33 hrs 38 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
-Other               24 hrs 42 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-Markdown            16 hrs 36 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+Other               24 hrs 54 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+Markdown            17 hrs 16 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
 YAML                12 hrs 37 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
 HTML                5 hrs                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 Git Config          3 hrs 32 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
