@@ -18,23 +18,23 @@ frameworks like Vue.js and Next.js,and I have experience building mobile applica
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 May 2025 - To: 25 August 2026
+From: 03 May 2025 - To: 26 August 2026
 
-Total Time: 1,185 hrs 17 mins
+Total Time: 1,187 hrs 38 mins
 
-TypeScript          444 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   36.61 %
-JavaScript          140 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.57 %
-JSON                132 hrs 13 mins       ██▓░░░░░░░░░░░░░░░░░░░░░░   10.89 %
-Dart                90 hrs 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
-PHP                 88 hrs 15 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
-Vue.js              79 hrs 9 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
-Bash                61 hrs 47 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
-Python              53 hrs 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
+TypeScript          444 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   36.54 %
+JavaScript          140 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.55 %
+JSON                132 hrs 19 mins       ██▓░░░░░░░░░░░░░░░░░░░░░░   10.88 %
+Dart                92 hrs 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
+PHP                 88 hrs 15 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
+Vue.js              79 hrs 9 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
+Bash                61 hrs 47 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
+Python              53 hrs 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
 Blade Template      33 hrs 38 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
-Other               28 hrs 35 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-Markdown            20 hrs 55 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
-YAML                12 hrs 52 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-HTML                5 hrs 5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Other               28 hrs 39 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+Markdown            21 hrs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+YAML                12 hrs 54 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+HTML                5 hrs 28 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 Git Config          3 hrs 47 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 Text                3 hrs 12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 Ruby                1 hr 47 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
