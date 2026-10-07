@@ -18,25 +18,25 @@ frameworks like Vue.js and Next.js,and I have experience building mobile applica
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 May 2025 - To: 05 October 2026
+From: 03 May 2025 - To: 06 October 2026
 
-Total Time: 1,196 hrs 53 mins
+Total Time: 1,197 hrs 4 mins
 
-TypeScript          445 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   36.28 %
+TypeScript          445 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   36.26 %
 JavaScript          140 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.44 %
-JSON                132 hrs 47 mins       ██▓░░░░░░░░░░░░░░░░░░░░░░   10.82 %
-Dart                97 hrs 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
+JSON                132 hrs 47 mins       ██▓░░░░░░░░░░░░░░░░░░░░░░   10.81 %
+Dart                97 hrs 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
 PHP                 88 hrs 15 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
 Vue.js              79 hrs 9 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
-Bash                62 hrs 39 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
+Bash                62 hrs 39 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
 Python              53 hrs 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
 Blade Template      33 hrs 38 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
-Other               30 hrs 24 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+Other               30 hrs 53 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
 Markdown            21 hrs 15 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
 YAML                12 hrs 58 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
 HTML                5 hrs 28 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 Text                4 hrs 3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-Git Config          3 hrs 59 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Git Config          3 hrs 59 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 Ruby                2 hrs 8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 XML                 1 hr 33 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 Prisma              1 hr 27 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
